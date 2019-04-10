@@ -2,8 +2,7 @@
 This is an implementation of the work published in A Cross-Season Correspondence Dataset for Robust Semantic Segmentation (https://arxiv.org/abs/1903.06916)
 
 ## Resources 
-The datasets used in the paper will be published at visuallocalization.net
-At the moment they are only available upon request
+The datasets used in the paper are available at visuallocalization.net
 
 ## Trained Models
 https://drive.google.com/open?id=14joxT0XFreW1WX3M8oTiCV69hZTiJTMV
