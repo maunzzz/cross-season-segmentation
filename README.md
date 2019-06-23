@@ -26,11 +26,12 @@ Måns Larsson, Erik Stenborg, Lars Hammarstrand, Torsten Sattler, Mark Pollefeys
 "A Cross-Season Correspondence Dataset for Robust Semantic Segmentation" Proc. CVPR (2019).
 
 ```
-@article{larsson2019corr,
-  title={A Cross-Season Correspondence Dataset for Robust Semantic Segmentation},
-  author={Larsson, M{\aa}ns and Stenborg, Erik and Hammarstrand, Lars and Sattler, Torsten and Pollefeys, Mark and Kahl, Fredrik},
-  journal={arXiv preprint arXiv:1903.06916},
-  year={2019}
+@InProceedings{Larsson_2019_CVPR,
+author = {Larsson, Mans and Stenborg, Erik and Hammarstrand, Lars and Pollefeys, Marc and Sattler, Torsten and Kahl, Fredrik},
+title = {A Cross-Season Correspondence Dataset for Robust Semantic Segmentation},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
 }
 ```
 
