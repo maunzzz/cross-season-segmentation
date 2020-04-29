@@ -13,7 +13,7 @@ A Dockerfile is provided, either build a docker image using this or refer to the
 ## Usage 
 - Download Cityscapes and Mapillary Vistas
 - Use /utils/convert_vistas_to_cityscapes.py to create cityscapes class annotations for the Vistas images
-- Download the correspondence datasets
+- Download the correspondence datasets, https://www.visuallocalization.net/datasets/
 - Download the images associated with the correspondence datasets (instructions available in dataset readme)
 - Create a global_otps.json and set the paths (see global_opts_example.json)
 - Train, see train/train_many.py for reproduction of paper experiments
